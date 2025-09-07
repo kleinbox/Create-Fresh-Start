@@ -98,7 +98,7 @@ hash = "92a34d78545b30275a70f74fb096b9e51389227c027ec4f6f7dc417855a9f64f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "69bb3f1853b42aee22f5a11762bf30d3a1a50b07df051544b6b5a57bef4ae3fc"
+hash = "bd07020e43ea1cfcc731832caa69887369b6ee54b664204e2d976c3407e679b2"
 
 [[files]]
 file = "config/easyanvils-client.toml"
