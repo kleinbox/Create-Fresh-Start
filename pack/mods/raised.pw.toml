@@ -1,13 +1,13 @@
 name = "Raised"
-filename = "raised-neoforge-1.21.1-5.0.0.jar"
+filename = "raised-neoforge-1.21.1-5.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/CiwoldjO/raised-neoforge-1.21.1-5.0.0.jar"
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/A9o5RReR/raised-neoforge-1.21.1-5.0.1.jar"
 hash-format = "sha512"
-hash = "d6bbeed939346ab051a811c9cdb616d685b656aa8376c49e5ea8001235ce53c812fbf055c37775eaf5e8928a457fa263b51751bb53165daf43efc4fa245393a7"
+hash = "3c5b97f901e6452909c485d680761292e43b1234ee22752d1c75756be8470ff8678b5273860805b823aec50ecb37f1684e04ebd11b6281055fab9e1db4c73ba8"
 
 [update]
 [update.modrinth]
 mod-id = "nCQRBEiR"
-version = "CiwoldjO"
+version = "A9o5RReR"

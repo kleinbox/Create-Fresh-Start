@@ -1,13 +1,13 @@
 name = "WindChime Unofficial Continued"
-filename = "windchimes-1.3.5-1.21.1.jar"
+filename = "windchimes-1.3.6-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WCrhl0ep/versions/gQyydkIf/windchimes-1.3.5-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/WCrhl0ep/versions/q0wN9zB5/windchimes-1.3.6-1.21.1.jar"
 hash-format = "sha512"
-hash = "e19652cf7bbb677604f9dbf4ea9e45c8739b169d310bdf96efefdcda5989209cd4e8d061480f4c9757d7da50469bbfe60668764cd69c7049bbbb205798ef6dd6"
+hash = "7b9832b79810a0921c54c571744b1210380e154c9b27b92bc1b70612836635e6aca4c774e46d0649e12296384f65b809cff9a61c65ac04da49ded20f555bad1d"
 
 [update]
 [update.modrinth]
 mod-id = "WCrhl0ep"
-version = "gQyydkIf"
+version = "q0wN9zB5"

@@ -17,28 +17,17 @@ Legendary Tooltips:
 1. Create
 2. Redstone, CC:T
 
-Warnings in modpack:
-- Still in Beta. Only report issues to modders if their mods have been tested isolated. Otherwise send bug reports towards me (ideally with the filter disabled)
-
-- Biased look and feel. The most affecting changes (like outlines, fresh animations, the new redstone look or legacy copper textures) can be all disabled under Options -> Resource Packs.
-- Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
-
 TODO:
+- raised extra hunger not being offset
+- replacement for waves?
 - fishermans trap x tide compat
-- pommes
 - Spyglass not working?
 - Custom credits screen
 - Soup tag
-- Farmers Delight rope craftbar machen
-- Rope rezepte prüfen
 - Copper ore textures are random
 - Crops right clickable (Simply Harvesting)
-- Craftubg table carrying on
-- Search for control keys
 - bark aus log automatisierbar machen
 - limestone automatisierbar machen
 - pettable friends mod
-- dancerizer
-- antique atlas create compat mod von sophie
 - opac x antique atlas compat mod machen?
 - https://modrinth.com/plugin/lmd

@@ -1,14 +1,14 @@
 name = "Create: Fresh Start"
 author = "Sammy L. Koch"
-version = "1.4.1"
+version = "1.5.0"
 description = "It is time for a fresh start! Create v6 released with revolutionary changes!"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c9e7a709a2a2347aad840058780251135163f8317b0b3b2e0ea1b1f70de7471f"
+hash = "90d9ea68d81a83738852eca01d6ef2baf5b55d919ab17975313f08c84d0e44fb"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.191"
+neoforge = "21.1.208"

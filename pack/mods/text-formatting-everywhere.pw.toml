@@ -1,13 +1,13 @@
 name = "Text Formatting Everywhere"
-filename = "textformattingeverywhere-neoforge-2.0.1.jar"
+filename = "textformattingeverywhere-neoforge-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1ury0R3s/versions/eo8HjAsx/textformattingeverywhere-neoforge-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/1ury0R3s/versions/sQt5QahK/textformattingeverywhere-neoforge-2.0.3.jar"
 hash-format = "sha512"
-hash = "9cfae15646d6ab2853e750b44816881f8c1ae5c1646a265c9d4783b23682fdcecb4e96ca4eb87923df0fec78c8a48aa513045aa471984253c08dc7658699d896"
+hash = "ac4741c96e9a730471b7914bca7113346444e209f535d9bef06745c38d21b771fe3d55194a9a513834a7d004497a33a91ef4cedcc4d4162a36cb1684bec580d3"
 
 [update]
 [update.modrinth]
 mod-id = "1ury0R3s"
-version = "eo8HjAsx"
+version = "sQt5QahK"

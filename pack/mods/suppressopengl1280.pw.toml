@@ -1,13 +1,13 @@
 name = "Suppress OpenGL Error 128(0-2)"
-filename = "suppressopengl1280-1.2.4.jar"
+filename = "suppress-OpenGL-1280-1.2.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2U4cBE7v/versions/9qezfaE5/suppressopengl1280-1.2.4.jar"
+url = "https://cdn.modrinth.com/data/2U4cBE7v/versions/elNFNW4Y/suppress-OpenGL-1280-1.2.5.jar"
 hash-format = "sha512"
-hash = "d2fe8f45dc18b59a70e17586e1e3afc9f49bb371638e7163fd8196a641d9d3ba34f1656278a9b8cb542ae4572ee3c76a7d4ec3b66f80500f28b55e3ed22ef9e7"
+hash = "bdf9a9e13252619654dc88858a92ba14af6245e7d1a847da38308b5e74156e116c9ae008edffc90b9b3736917b06562770d6188b7149310775c1bfd2c27961ef"
 
 [update]
 [update.modrinth]
 mod-id = "2U4cBE7v"
-version = "9qezfaE5"
+version = "elNFNW4Y"
